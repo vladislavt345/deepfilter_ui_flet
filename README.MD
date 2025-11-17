@@ -1,5 +1,7 @@
 A modern GUI application for managing DeepFilterNet noise suppression on Linux with PipeWire.
 
+![DeepFilter UI Screenshot](scren/photo_2025-11-17_23-56-39.jpg)
+
 ## Features
 
 - Easy microphone selection and connection
