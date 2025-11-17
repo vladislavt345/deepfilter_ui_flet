@@ -1,9 +1,3 @@
-# ============================================================================
-# README.md
-# ============================================================================
-
-# DeepFilterNet UI
-
 A modern GUI application for managing DeepFilterNet noise suppression on Linux with PipeWire.
 
 ## Features
